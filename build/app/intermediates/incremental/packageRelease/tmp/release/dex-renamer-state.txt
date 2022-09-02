@@ -1,0 +1,4 @@
+#Mon Aug 29 01:23:56 WEST 2022
+base.0=C\:\\Users\\HP\\Desktop\\PFE\\mantime\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

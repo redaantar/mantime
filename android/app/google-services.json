@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435728046956",
+    "project_id": "mantime-215d3",
+    "storage_bucket": "mantime-215d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435728046956:android:1aeb40c4f93209a14e7149",
+        "android_client_info": {
+          "package_name": "com.example.mantime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435728046956-3tuaknrk621v0alkhq1q2umqaf2ki73f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oxKXQ7GOAqA8t3ewN6x92w4rZ4JQ3YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435728046956-3tuaknrk621v0alkhq1q2umqaf2ki73f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
